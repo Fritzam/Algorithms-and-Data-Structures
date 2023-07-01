@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be912673-5dfe-44d4-844d-98f383bc5117" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms and Data Structures.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicArray/DynamicArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicArray/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearch/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListVSArrayList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedLists/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PriorityQueues/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queues/Main.java" afterDir="false" />
+    <list default="true" id="be912673-5dfe-44d4-844d-98f383bc5117" name="Changes" comment="First half of Algorithms and Data Structures completed.">
+      <change afterPath="$PROJECT_DIR$/src/InterpolationSearch/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,12 +131,24 @@
       <updated>1688148991207</updated>
       <workItem from="1688148992202" duration="78000" />
       <workItem from="1688208847925" duration="3000" />
-      <workItem from="1688208853653" duration="16248000" />
+      <workItem from="1688208853653" duration="17173000" />
     </task>
+    <task id="LOCAL-00001" summary="First half of Algorithms and Data Structures completed.">
+      <created>1688229514528</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688229514528</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First half of Algorithms and Data Structures completed." />
+    <option name="LAST_COMMIT_MESSAGE" value="First half of Algorithms and Data Structures completed." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
