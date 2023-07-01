@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be912673-5dfe-44d4-844d-98f383bc5117" name="Changes" comment="Binary Search finished, Interpolation search started.">
+    <list default="true" id="be912673-5dfe-44d4-844d-98f383bc5117" name="Changes" comment="Interpolation search added.">
+      <change afterPath="$PROJECT_DIR$/src/BubbleSort/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterpolationSearch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterpolationSearch/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +44,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.InterpolationSearch.Main">
-    <configuration name="DynamicArray.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DynamicArray.Main" />
+  <component name="RunManager" selected="Application.BubbleSort.Main">
+    <configuration name="BubbleSort.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort.Main" />
       <module name="Algorithms and Data Structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DynamicArray.*" />
+          <option name="PATTERN" value="BubbleSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort.Main" />
         <item itemvalue="Application.InterpolationSearch.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.LinearSearch.Main" />
         <item itemvalue="Application.LinkedListVSArrayList.Main" />
-        <item itemvalue="Application.DynamicArray.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +130,7 @@
       <updated>1688148991207</updated>
       <workItem from="1688148992202" duration="78000" />
       <workItem from="1688208847925" duration="3000" />
-      <workItem from="1688208853653" duration="18175000" />
+      <workItem from="1688208853653" duration="20189000" />
     </task>
     <task id="LOCAL-00001" summary="First half of Algorithms and Data Structures completed.">
       <created>1688229514528</created>
@@ -146,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688230310741</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Interpolation search added.">
+      <created>1688231381329</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688231381329</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +162,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First half of Algorithms and Data Structures completed." />
     <MESSAGE value="Binary Search finished, Interpolation search started." />
-    <option name="LAST_COMMIT_MESSAGE" value="Binary Search finished, Interpolation search started." />
+    <MESSAGE value="Interpolation search added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Interpolation search added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
