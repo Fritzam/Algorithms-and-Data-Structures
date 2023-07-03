@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be912673-5dfe-44d4-844d-98f383bc5117" name="Changes" comment="MergeSort added">
-      <change afterPath="$PROJECT_DIR$/src/QuickSort/Main.java" afterDir="false" />
+    <list default="true" id="be912673-5dfe-44d4-844d-98f383bc5117" name="Changes" comment="QuickSort added.">
+      <change afterPath="$PROJECT_DIR$/src/HashTables/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.QuickSort.Main">
+  <component name="RunManager" selected="Application.HashTables.Main">
+    <configuration name="HashTables.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashTables.Main" />
+      <module name="Algorithms and Data Structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HashTables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InsertionSort.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InsertionSort.Main" />
       <module name="Algorithms and Data Structures" />
@@ -97,26 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelectionSort.Main" />
-      <module name="Algorithms and Data Structures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SelectionSort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashTables.Main" />
         <item itemvalue="Application.QuickSort.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Recursion.Main" />
         <item itemvalue="Application.InsertionSort.Main" />
-        <item itemvalue="Application.SelectionSort.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +131,7 @@
       <workItem from="1688148992202" duration="78000" />
       <workItem from="1688208847925" duration="3000" />
       <workItem from="1688208853653" duration="20189000" />
-      <workItem from="1688391123476" duration="12359000" />
+      <workItem from="1688391123476" duration="13763000" />
     </task>
     <task id="LOCAL-00001" summary="First half of Algorithms and Data Structures completed.">
       <created>1688229514528</created>
@@ -182,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688405988209</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="QuickSort added.">
+      <created>1688422117642</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688422117642</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +203,8 @@
     <MESSAGE value="InsertionSort() added." />
     <MESSAGE value="Recursion added." />
     <MESSAGE value="MergeSort added" />
-    <option name="LAST_COMMIT_MESSAGE" value="MergeSort added" />
+    <MESSAGE value="QuickSort added." />
+    <option name="LAST_COMMIT_MESSAGE" value="QuickSort added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
