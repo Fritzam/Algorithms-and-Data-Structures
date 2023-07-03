@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be912673-5dfe-44d4-844d-98f383bc5117" name="Changes" comment="SelectionSort added.">
-      <change afterPath="$PROJECT_DIR$/src/InsertionSort/Main.java" afterDir="false" />
+    <list default="true" id="be912673-5dfe-44d4-844d-98f383bc5117" name="Changes" comment="InsertionSort() added.">
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.InsertionSort.Main">
+  <component name="RunManager" selected="Application.Recursion.Main">
     <configuration name="BubbleSort.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BubbleSort.Main" />
       <module name="Algorithms and Data Structures" />
@@ -84,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.Main" />
+    <configuration name="Recursion.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Main" />
       <module name="Algorithms and Data Structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Recursion.Main" />
         <item itemvalue="Application.InsertionSort.Main" />
         <item itemvalue="Application.SelectionSort.Main" />
         <item itemvalue="Application.BubbleSort.Main" />
         <item itemvalue="Application.InterpolationSearch.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +131,7 @@
       <workItem from="1688148992202" duration="78000" />
       <workItem from="1688208847925" duration="3000" />
       <workItem from="1688208853653" duration="20189000" />
-      <workItem from="1688391123476" duration="4701000" />
+      <workItem from="1688391123476" duration="7215000" />
     </task>
     <task id="LOCAL-00001" summary="First half of Algorithms and Data Structures completed.">
       <created>1688229514528</created>
@@ -161,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688394215632</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="InsertionSort() added.">
+      <created>1688396204874</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688396204874</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +179,8 @@
     <MESSAGE value="Binary Search finished, Interpolation search started." />
     <MESSAGE value="Interpolation search added." />
     <MESSAGE value="SelectionSort added." />
-    <option name="LAST_COMMIT_MESSAGE" value="SelectionSort added." />
+    <MESSAGE value="InsertionSort() added." />
+    <option name="LAST_COMMIT_MESSAGE" value="InsertionSort() added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
