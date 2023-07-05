@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be912673-5dfe-44d4-844d-98f383bc5117" name="Changes" comment="Hashtables added.">
-      <change afterPath="$PROJECT_DIR$/src/AdjecencyMatrix/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdjecencyMatrix/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdjecencyMatrix/Node.java" afterDir="false" />
+    <list default="true" id="be912673-5dfe-44d4-844d-98f383bc5117" name="Changes" comment="AdjacencyMatrix added.">
+      <change afterPath="$PROJECT_DIR$/src/AdjacencyList/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdjacencyList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdjacencyList/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdjacencyList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdjacencyList/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AdjecencyMatrix.Main">
+  <component name="RunManager" selected="Application.AdjacencyList.Main">
+    <configuration name="AdjacencyList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdjacencyList.Main" />
+      <module name="Algorithms and Data Structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdjacencyList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AdjecencyMatrix.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdjecencyMatrix.Main" />
       <module name="Algorithms and Data Structures" />
@@ -100,26 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Main" />
-      <module name="Algorithms and Data Structures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdjacencyList.Main" />
         <item itemvalue="Application.AdjecencyMatrix.Main" />
         <item itemvalue="Application.HashTables.Main" />
         <item itemvalue="Application.QuickSort.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Recursion.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +135,7 @@
       <workItem from="1688208853653" duration="20189000" />
       <workItem from="1688391123476" duration="13835000" />
       <workItem from="1688485626997" duration="3028000" />
-      <workItem from="1688565510666" duration="1577000" />
+      <workItem from="1688565510666" duration="4136000" />
     </task>
     <task id="LOCAL-00001" summary="First half of Algorithms and Data Structures completed.">
       <created>1688229514528</created>
@@ -201,11 +200,29 @@
       <option name="project" value="LOCAL" />
       <updated>1688423893036</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="AdjacencyMatrix added.">
+      <created>1688569952161</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1688569952161</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First half of Algorithms and Data Structures completed." />
@@ -217,7 +234,8 @@
     <MESSAGE value="MergeSort added" />
     <MESSAGE value="QuickSort added." />
     <MESSAGE value="Hashtables added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Hashtables added." />
+    <MESSAGE value="AdjacencyMatrix added." />
+    <option name="LAST_COMMIT_MESSAGE" value="AdjacencyMatrix added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
