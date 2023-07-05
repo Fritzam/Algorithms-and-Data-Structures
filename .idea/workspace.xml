@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be912673-5dfe-44d4-844d-98f383bc5117" name="Changes" comment="AdjacencyMatrix added.">
-      <change afterPath="$PROJECT_DIR$/src/AdjacencyList/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdjacencyList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdjacencyList/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="be912673-5dfe-44d4-844d-98f383bc5117" name="Changes" comment="AdjacencyMatrix added." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +130,7 @@
       <workItem from="1688208853653" duration="20189000" />
       <workItem from="1688391123476" duration="13835000" />
       <workItem from="1688485626997" duration="3028000" />
-      <workItem from="1688565510666" duration="4136000" />
+      <workItem from="1688565510666" duration="4439000" />
     </task>
     <task id="LOCAL-00001" summary="First half of Algorithms and Data Structures completed.">
       <created>1688229514528</created>
@@ -207,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688569952161</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="AdjacencyMatrix added.">
+      <created>1688574381386</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1688574381386</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,7 +237,7 @@
     <MESSAGE value="QuickSort added." />
     <MESSAGE value="Hashtables added." />
     <MESSAGE value="AdjacencyMatrix added." />
-    <option name="LAST_COMMIT_MESSAGE" value="AdjacencyMatrix added." />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
