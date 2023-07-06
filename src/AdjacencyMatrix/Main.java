@@ -1,4 +1,4 @@
-package AdjecencyMatrix;
+package AdjacencyMatrix;
 
 class Main {
 

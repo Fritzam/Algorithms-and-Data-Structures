@@ -1,4 +1,4 @@
-package AdjecencyMatrix;
+package AdjacencyMatrix;
 
 import java.util.ArrayList;
 
@@ -25,7 +25,7 @@ class Graph {
         return matrix[src][dst] == 1;
     }
 
-    public void print() {
+    void print() {
         System.out.print("  ");
         for (Node node: nodes) {
             System.out.print(node.data + " ");
