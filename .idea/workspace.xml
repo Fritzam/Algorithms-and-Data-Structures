@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be912673-5dfe-44d4-844d-98f383bc5117" name="Changes" comment="BreadthFirstSearch added.">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="be912673-5dfe-44d4-844d-98f383bc5117" name="Changes" comment="BinarySearchTree added.">
       <change beforePath="$PROJECT_DIR$/src/BinarySearch/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -137,7 +133,7 @@
       <workItem from="1688391123476" duration="13835000" />
       <workItem from="1688485626997" duration="3028000" />
       <workItem from="1688565510666" duration="5220000" />
-      <workItem from="1688654504404" duration="10169000" />
+      <workItem from="1688654504404" duration="10492000" />
     </task>
     <task id="LOCAL-00001" summary="First half of Algorithms and Data Structures completed.">
       <created>1688229514528</created>
@@ -244,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688666923347</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="BinarySearchTree added.">
+      <created>1688671631918</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1688671631918</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,7 +258,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -276,7 +291,8 @@
     <MESSAGE value="DepthFirstSearch added." />
     <MESSAGE value="Minor fixes." />
     <MESSAGE value="BreadthFirstSearch added." />
-    <option name="LAST_COMMIT_MESSAGE" value="BreadthFirstSearch added." />
+    <MESSAGE value="BinarySearchTree added." />
+    <option name="LAST_COMMIT_MESSAGE" value="BinarySearchTree added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
